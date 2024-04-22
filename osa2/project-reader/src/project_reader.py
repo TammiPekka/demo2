@@ -20,5 +20,6 @@ class ProjectReader:
         authors = parsed['tool']['poetry']['authors']
         riippuvuudet = parsed['tool']['poetry']['dependencies']
         dev_riippuvuudet = parsed['tool']['poetry']['group']['dev']['dependencies']
-                # deserialisoi TOML-formaatissa oleva merkkijono ja muodosta Project-olio sen tietojen perusteella
+        
+         # deserialisoi TOML-formaatissa oleva merkkijono ja muodosta Project-olio sen tietojen perusteella
         return Project(nimi, desci, lisenssi, authors, riippuvuudet, dev_riippuvuudet)
