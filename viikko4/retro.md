@@ -1,0 +1,5 @@
+Glad, sad, mad retrospektiivissä osallistujat jakavat sprintin aikana tehdyt huomit kolmeen kategoriaan glad, sad ja mad. Glad kategoriaan kuuluvat huomiot positiivista asioista sprintissä tai tiimissä, sad kategoriaan kuuluvat negatiiset asiat sprintistä tai tiimistä ja mad kategoriaan kuuluvat negatiiviset asiat, jotka kuuluvat tiimin ulkopuolisiin asioihin. 
+Retrospektiivissä jokainen osallistuja kirjoitaa yksittäisille lapuille lyhyesti haluamansa asiat sprintistä. Sen jälkeen lapun kirjoittaja asettaa sen johonkin edellä mainituista kategorioista.  
+Tämän jälkeen kortit ryhmitellään sen mukaan, mitä asioita ne käsittelevät. Eli samaa asiaa käsittelevät kortit muodostavat yhden ryhmän 
+Tämän jälkeen osallistujat saavat äänestää, mistä korteista he haluaisivat keskustella. Lopuksi scrummasterin johdolla osallistujat keskustelevat korteista keskittyen siihen, miten asioita voisi parantaa seuraavassa sprintissä.
+Retrospektiivi loppuu siihen, kun kaikki keskusteltavat asiat on käyty läpi tai, kun aika loppuu.
