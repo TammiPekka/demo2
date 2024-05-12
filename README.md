@@ -1,1 +1,1 @@
-# demo2
+Ohjelmistotuotanto-kurssin laskareiden palautukseen.
